@@ -1,0 +1,78 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Figure Skating Quiz</string>
+
+    <!--Title Section-->
+    <string name="header">How much do you know about figure skating?</string>
+    <string name="subheader">Take this quiz and find out!</string>
+
+    <!--Q1, radio buttons-->
+    <string name="question1">1. How many kinds of jumps are currently counted as jump elements in ISU regulations?</string>
+    <string name="q1a1">4</string>
+    <string name="q1a2">5</string>
+    <string name="q1a3">6</string>
+    <string name="q1a4">7</string>
+    <string name="q1correct">1. Great job!</string>
+    <string name="q1wrong">1. Sorry, the answer is 6.</string>
+
+    <!--Q2, checkboxes-->
+    <string name="question2">2. Which of the following jumps are considered edge jumps?</string>
+    <string name="q2a1">Axel</string>
+    <string name="q2a2">Lutz</string>
+    <string name="q2a3">Loop</string>
+    <string name="q2a4">Flip</string>
+    <string name="q2correct">2. Great job!</string>
+    <string name="q2wrong">2. Sorry, the answers are Axel and Loop.</string>
+
+    <!--Q3, radio buttons-->
+    <string name="question3">3. What spin is the skater doing?</string>
+    <string name="q3a1">Scratch spin</string>
+    <string name="q3a2">Sit spin</string>
+    <string name="q3a3">Camel spin</string>
+    <string name="q3a4">The shoot the duck spin</string>
+    <string name="q3correct">3. Great job!</string>
+    <string name="q3wrong">3. Sorry, the answer is Sit spin.</string>
+
+    <!--Q4, radio buttons-->
+    <string name="question4">4. What spin is the skater doing?</string>
+    <string name="q4a1">I spin</string>
+    <string name="q4a2">Y spin</string>
+    <string name="q4a3">Split spin</string>
+    <string name="q4a4">One leg standing spin</string>
+    <string name="q4correct">4. Great job!</string>
+    <string name="q4wrong">4. Sorry, the answer is I spin.</string>
+
+    <!--Q5, checkboxes-->
+    <string name="question5">5. What spins are the skater doing?</string>
+    <string name="q5a1">Layback spin</string>
+    <string name="q5a2">Crossover spin</string>
+    <string name="q5a3">Camel spin</string>
+    <string name="q5a4">Biellmann spin</string>
+    <string name="q5correct">5. Great job!</string>
+    <string name="q5wrong">5. Sorry, the answers are Layback and Biellmann spins.</string>
+
+    <!--Q6, radio buttons-->
+    <string name="question6">6. What is the name of this move?</string>
+    <string name="q6a1">Spread eagle</string>
+    <string name="q6a2">Cantilever</string>
+    <string name="q6a3">Spiral</string>
+    <string name="q6a4">Ina Bauer</string>
+    <string name="q6correct">6. Great job!</string>
+    <string name="q6wrong">6. Sorry, the answer is Ina Bauer.</string>
+
+    <!--Q7, edit text-->
+    <string name="question7">7. Who is your favorite female figure skater?</string>
+    <string name="q7a1">Enter name</string>
+    <string name="q7NotNull">"Cool! I like "<xliff:g example="Sasha Cohen" id="price">%s</xliff:g>" too!"</string>
+    <string name="q7IsNull">Can\'t make up your mind?</string>
+
+    <!--Q8, edit text-->
+    <string name="question8">8. Who is your favorite male figure skater?</string>
+    <string name="q8a1">Enter name</string>
+    <string name="q8NotNull">"Cool! I like "<xliff:g example="Johnny Weir" id="price">%s</xliff:g>" too!"</string>
+    <string name="q8IsNull">Can\'t make up your mind?</string>
+
+    <!--Submit button-->
+    <string name="submit_button">See your results</string>
+
+
+</resources>
