@@ -5,7 +5,7 @@ Udacity Android Basic Final Quiz App Project
 
 Here's a walkthrough of the quiz app:
 
-<img src='https://i.imgur.com/Zt3TARj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/Zt3TARj
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
