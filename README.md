@@ -1,5 +1,7 @@
 # Android_FigureSkating_Quiz
-Udacity Android basic final quiz app project
+Udacity Android Basic Final Quiz App Project
+
+https://i.imgur.com/Zt3TARj.gifv
 
 PROJECT SPECIFICATION
 Quiz App
