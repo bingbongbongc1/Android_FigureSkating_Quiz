@@ -1,12 +1,18 @@
 # Android_FigureSkating_Quiz
 Udacity Android Basic Final Quiz App Project
 
-https://i.imgur.com/Zt3TARj.gifv
+### Video Walkthrough 
 
-PROJECT SPECIFICATION
-Quiz App
+Here's a walkthrough of the quiz app:
 
-Layout
+<img src='https://i.imgur.com/Zt3TARj.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+
+### PROJECT SPECIFICATION
+
+#### Layout
 
 CRITERIA
 
@@ -42,9 +48,7 @@ Rotation
 
   The app gracefully handles displaying all the content on screen when rotated. Either by updating the layout, adding a     scrollable feature or some other mechanism that adheres to Android development guidelines.
 
---
-
-Functionality
+#### Functionality
 
 CRITERIA
 
@@ -74,9 +78,7 @@ Grading Logic
 
   Note: When applicable, in the grading logic remember to check that the correct answers are checked AND the incorrect answers are not checked.
 
---
-
-Code Readability
+#### Code Readability
 
 CRITERIA
 
